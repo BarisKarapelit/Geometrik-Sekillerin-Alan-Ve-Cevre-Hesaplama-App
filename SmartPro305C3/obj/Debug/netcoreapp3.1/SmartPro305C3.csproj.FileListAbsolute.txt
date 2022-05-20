@@ -1,0 +1,14 @@
+C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\bin\Debug\netcoreapp3.1\SmartPro305C3.exe
+C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\bin\Debug\netcoreapp3.1\SmartPro305C3.deps.json
+C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\bin\Debug\netcoreapp3.1\SmartPro305C3.runtimeconfig.json
+C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\bin\Debug\netcoreapp3.1\SmartPro305C3.runtimeconfig.dev.json
+C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\bin\Debug\netcoreapp3.1\SmartPro305C3.dll
+C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\bin\Debug\netcoreapp3.1\SmartPro305C3.pdb
+C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.csproj.AssemblyReference.cache
+C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.GeneratedMSBuildEditorConfig.editorconfig
+C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.AssemblyInfoInputs.cache
+C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.AssemblyInfo.cs
+C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.csproj.CoreCompileInputs.cache
+C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.dll
+C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.pdb
+C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.genruntimeconfig.cache
