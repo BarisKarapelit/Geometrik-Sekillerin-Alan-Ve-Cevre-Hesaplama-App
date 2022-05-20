@@ -447,7 +447,7 @@ namespace SmartPro305C3
             }
             for (int i = 0; i < kenarlar.Length; i++)
             {
-                if (kenarlar[i]== kenarlar[k+1])
+                if (kenarlar[i]== kenarlar[i+1])
                 {
                     Console.Clear();
                     Console.WriteLine("Kenar Uzunluklari Ayni ");
