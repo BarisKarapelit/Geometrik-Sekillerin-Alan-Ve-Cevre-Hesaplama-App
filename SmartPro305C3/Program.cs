@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Threading;
 
 namespace SmartPro305C3
@@ -414,7 +415,7 @@ namespace SmartPro305C3
                 Console.Write("Yuksekligi Girin : ");
 
             } while (!int.TryParse(Console.ReadLine(), out h));
-
+            
             if (numbers[0] == numbers[1])
             {
                 Console.Clear();
@@ -445,12 +446,21 @@ namespace SmartPro305C3
                 } while (!int.TryParse(Console.ReadLine(), out kenarlar[i]));
                 
             }
+
+            
+
             for (int i = 0; i < kenarlar.Length; i++)
             {
-                if (kenarlar[i]== kenarlar[i+1])
+                // if (kenarlar[i]== kenarlar[i+1])
+                // {
+                //     
+                //     Console.WriteLine("Kenar Uzunluklari Ayni ");
+                //     
+                // }
+                if (!Enumerable.Range(0, 3).Any(i => kenarlar[i] != kenarlar[i + 1]))
                 {
                     Console.Clear();
-                    Console.WriteLine("Kenar Uzunluklari Ayni ");
+                    Console.WriteLine("Kenar Uzunluklari Ayni "); 
                     Thread.Sleep(milliseconds);
                     YamukCevresi();
                 }
@@ -475,7 +485,6 @@ namespace SmartPro305C3
         {
             string[] data = { "h – yükseklik", "s – yanal yüzeyin yarıçapı", "r – çap", "d – yarıçap", "a - Ana doğrusunun uzunluğu" };
             int[] dataInt = new int[4];
-
             for (int i = 0; i < data.Length; i++)
             {
                 do

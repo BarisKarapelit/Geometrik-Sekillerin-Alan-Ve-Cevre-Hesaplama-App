@@ -12,3 +12,17 @@ C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\obj\Debug\netcor
 C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.dll
 C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.pdb
 C:\SmartPro\C#\305_Sabah_18_05_2022\SmartPro305C3\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.genruntimeconfig.cache
+C:\Users\Pc\source\repos\Geometrik-Sekillerin-Alan-Ve-Cevre-Hesaplama-App\SmartPro305C3\bin\Debug\netcoreapp3.1\SmartPro305C3.exe
+C:\Users\Pc\source\repos\Geometrik-Sekillerin-Alan-Ve-Cevre-Hesaplama-App\SmartPro305C3\bin\Debug\netcoreapp3.1\SmartPro305C3.deps.json
+C:\Users\Pc\source\repos\Geometrik-Sekillerin-Alan-Ve-Cevre-Hesaplama-App\SmartPro305C3\bin\Debug\netcoreapp3.1\SmartPro305C3.runtimeconfig.json
+C:\Users\Pc\source\repos\Geometrik-Sekillerin-Alan-Ve-Cevre-Hesaplama-App\SmartPro305C3\bin\Debug\netcoreapp3.1\SmartPro305C3.runtimeconfig.dev.json
+C:\Users\Pc\source\repos\Geometrik-Sekillerin-Alan-Ve-Cevre-Hesaplama-App\SmartPro305C3\bin\Debug\netcoreapp3.1\SmartPro305C3.dll
+C:\Users\Pc\source\repos\Geometrik-Sekillerin-Alan-Ve-Cevre-Hesaplama-App\SmartPro305C3\bin\Debug\netcoreapp3.1\SmartPro305C3.pdb
+C:\Users\Pc\source\repos\Geometrik-Sekillerin-Alan-Ve-Cevre-Hesaplama-App\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\Geometrik-Sekillerin-Alan-Ve-Cevre-Hesaplama-App\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\Geometrik-Sekillerin-Alan-Ve-Cevre-Hesaplama-App\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\Geometrik-Sekillerin-Alan-Ve-Cevre-Hesaplama-App\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.AssemblyInfo.cs
+C:\Users\Pc\source\repos\Geometrik-Sekillerin-Alan-Ve-Cevre-Hesaplama-App\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\Geometrik-Sekillerin-Alan-Ve-Cevre-Hesaplama-App\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.dll
+C:\Users\Pc\source\repos\Geometrik-Sekillerin-Alan-Ve-Cevre-Hesaplama-App\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.pdb
+C:\Users\Pc\source\repos\Geometrik-Sekillerin-Alan-Ve-Cevre-Hesaplama-App\SmartPro305C3\obj\Debug\netcoreapp3.1\SmartPro305C3.genruntimeconfig.cache
